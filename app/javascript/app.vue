@@ -9,7 +9,7 @@
 
 <script>
 import Header from "./components/Header";
-import Top from "./components/Top"; //追記
+import Top from "./components/Top";
 
 export default {
   data: function () {
